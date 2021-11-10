@@ -24261,8 +24261,20 @@
     "website": "https://dancingdoge.co/",
     "twitter": "https://twitter.com/DandoToken"
   }
-},
-{
+},{
+  "chainId": 101,
+  "address": "JB66TCqxoXVZgEz92vSKxvR6ZEZdDTBrHxG9r5XtwL7d",
+  "symbol": "DCK",
+  "name": "Duck Coin",
+  "decimals": 4,
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JB66TCqxoXVZgEz92vSKxvR6ZEZdDTBrHxG9r5XtwL7d/logo.png",
+  "tags": [],
+  "extensions": {
+    "website": "https://duckcoin.co",
+    "twitter": "https://twitter.com/DuckCoinSolana",
+    "discord": "https://discord.gg/34NUFB7u3h"
+  }
+},{
   "chainId": 101,
   "address": "9K4uNquZjVSBBN6fBsp62gtYLropyAxAbdZC7D9XErih",
   "symbol": "OPPA",
